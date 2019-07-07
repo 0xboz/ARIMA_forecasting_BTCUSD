@@ -1,0 +1,2 @@
+## How to Create ARIMA Model Forecasting BTCUSD in Python
+This is the source code for those two blog posts ([part 1](https://0xboz.github.io/blog/how-to-create-arima-model-forecasting-btc-usd-in-python-part-1/) & [part 2](https://0xboz.github.io/blog/how-to-create-arima-model-forecasting-btc-usd-in-python-part-2/)) on how to create ARIMA model forecasting BTCUSD movement in Python.
